@@ -7,7 +7,7 @@
 // ======================================================
 
 export const GITHUB_OWNER = "evaaudiosomatico-dot";
-export const GITHUB_REPO = "Zona1Code";
+export const GITHUB_REPO = "Zona1Bases";
 export const GITHUB_BRANCH = "main";
 
 export const CSV_ZONES = "zonas.csv";
